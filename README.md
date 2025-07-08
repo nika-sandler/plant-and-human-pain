@@ -1,5 +1,6 @@
 # **Plant and Human Pain**
 I think, like modern biologists, that plants feel pain. They found out that plants secrete substances that suppress it and react to anesthetics like animals and people.
+
 In my works, I show plants unconventionally beautiful: painful, dying, dead. I compare the external manifestations of their illnesses and deaths with the bodily suffering and dying of people. Thus, I try to find common ground between the tragic side of plant and human existence.
 ## Contents
 This repository includes:
