@@ -18,11 +18,17 @@ Other Archives:
   
   https://archive.org/details/@nika_sandler837
 
+  https://archive.org/details/nika-sandler-spore-archive
+
 – Zenodo
 
   Full records: https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Sandler%2C%20Nika%22
   
   Curated collection: https://zenodo.org/communities/nika-sandler/
+
+  https://doi.org/10.5281/zenodo.15652790
+
+  https://doi.org/10.5281/zenodo.20436981
 
 – OSF (Open Science Framework)
 
@@ -31,6 +37,8 @@ Other Archives:
   Plant and Human Pain
   
   https://doi.org/10.17605/OSF.IO/BZPW4
+
+  https://doi.org/10.17605/OSF.IO/UB3XV
 
 – GitHub
 
