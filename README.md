@@ -46,6 +46,8 @@ Other Archives:
 
   https://github.com/nika-sandler/plant-and-human-pain
 
+  https://github.com/nika-sandler/TIFF-Plant-and-Human-Pain
+
 – Rhizome Conifer
 
   https://conifer.rhizome.org/nika-sandler
